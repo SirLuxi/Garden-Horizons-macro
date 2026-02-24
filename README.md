@@ -4,7 +4,7 @@ An advanced, fully automated macro for **Garden Horizon** on Roblox. Built with 
 
 ## ✨ Features
 * **Multi-Shop Auto-Buy:** Select specific Seeds and Gears to farm.
-* ** Perfect Restock Cycle: Automatically detects when the shops restock ensuring you dont miss an item.
+* **Perfect Restock Cycle: Automatically detects when the shops restock ensuring you dont miss an item.
 * **Auto-Reconnect:** Uses image recognition to rejoin Private Servers.
 * **Discord Webhooks:** Get live status updates on your discord server.
 
